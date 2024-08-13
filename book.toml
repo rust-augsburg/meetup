@@ -1,0 +1,15 @@
+[book]
+title = "Rust Augsburg Meetup"
+#authors = ["Tiago Manczak", "Michael Schury"]
+multilingual = false
+src = "src"
+language = "en"
+
+[output.html.playground]
+editable = true
+
+# Create PDF with toc
+# [output.html]
+# [output.pdf]
+# [output.pdf-outline]
+# PDF-File: ./book/pdf-outline/output.pdf
