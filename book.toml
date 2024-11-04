@@ -5,6 +5,9 @@ multilingual = false
 src = "src"
 language = "en"
 
+[output.html]
+default-collapse = true
+
 [output.html.playground]
 editable = true
 
