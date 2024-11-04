@@ -5,7 +5,7 @@ Willkommen in unserer Rust-Gruppe! Entdecke mit uns die faszinierende Welt der P
 
 ## Agenda
 - 17:00pm - Willkommen und vorstellung
-- 17:30pm - (To be defined)
+- 17:30pm - Rust in Embedded Critical Systems: The Journey from Innovation to Production. - Tiago Manczak
 - 18:30pm - Allgemeine Themen
 
 Tip: bring deinen Computer mit!
