@@ -1,5 +1,5 @@
 # Augsburg Rust Meetup #11
-## 30. Jan. 2024 17:00
+## 30. Jan. 2025 17:00
 
 Willkommen in unserer Rust-Gruppe! Entdecke mit uns die faszinierende Welt der Programmiersprache Rust. Ob Anfänger oder Experte - hier tauschen wir Know-how aus, lösen Herausforderungen und erschaffen gemeinsam innovative Projekte. Sei dabei und werde Teil unserer leidenschaftlichen Community! #RustEnthusiasten
 
