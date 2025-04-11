@@ -1,7 +1,6 @@
 [book]
 title = "Rust Augsburg Meetup"
 #authors = ["Tiago Manczak", "Michael Schury"]
-multilingual = false
 src = "src"
 language = "en"
 
