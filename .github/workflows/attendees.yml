@@ -5,18 +5,18 @@ on:
     types: [opened, labeled]
 
 permissions:
-  contents: write   # ✅ fixed key
+  contents: write
 
 jobs:
   update-list:
-    if: contains(github.event.issue.labels.*.name, 'rsvp')
+    if: github.event.action == 'opened' || contains(github.event.issue.labels.*.name, 'rsvp')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Extract attendee data
-        id: extract   # ✅ added id so we can use outputs
+        id: extract
         run: |
           NAME=$(echo "${{ github.event.issue.title }}" | sed 's/^RSVP: //')
           COMMENT=$(echo "${{ github.event.issue.body }}" | tr '\n' ' ' | sed 's/|/-/g')
