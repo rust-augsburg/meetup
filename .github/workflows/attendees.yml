@@ -11,6 +11,7 @@ jobs:
   update-list:
     if: github.event.action == 'opened' || contains(github.event.issue.labels.*.name, 'rsvp')
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -29,6 +30,12 @@ jobs:
           echo "name=$NAME" >> $GITHUB_OUTPUT
           echo "comment=$COMMENT" >> $GITHUB_OUTPUT
 
+      - name: Ensure attendees.md exists
+        run: |
+          if [ ! -f src/attendees.md ]; then
+            echo "| Name | Comment |" > src/attendees.md
+            echo "|------|---------|" >> src/attendees.md
+          fi
 
       - name: Append attendee to attendees.md
         run: |
@@ -41,3 +48,9 @@ jobs:
           git add src/attendees.md
           git commit -m "Add attendee: ${{ steps.extract.outputs.name }}" || echo "No changes to commit"
           git push origin main
+
+      - name: Trigger GitHub Pages rebuild
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          event-type: rebuild-pages
