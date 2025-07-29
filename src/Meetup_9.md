@@ -13,3 +13,5 @@ Willkommen in unserer Rust-Gruppe! Entdecke mit uns die faszinierende Welt der P
 - 18:30pm - Allgemeine Themen
 
 Tip: bring deinen Computer mit!
+
+- [Fotos](./MeetupFotos9.md)

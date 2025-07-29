@@ -8,3 +8,5 @@ Willkommen in unserer Rust-Gruppe! Entdecke mit uns die faszinierende Welt der P
 - 17:00pm - Willkommen und vorstellung
 - 17:30pm - Lukáš Hozda: Hypermedia-driven development in Rust
 - 18:30pm - Allgemeine Themen
+
+- [Fotos](./MeetupFotos11.md)
