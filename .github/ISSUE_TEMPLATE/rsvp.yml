@@ -2,6 +2,8 @@ name: "RSVP for Rust Meetup"
 description: "Register for the next Rust Meetup"
 title: "RSVP: [Your Name]"
 labels: ["rsvp"]
+assignees:
+  - tiagomanczak
 body:
   - type: input
     id: name
