@@ -1,0 +1,17 @@
+name: "RSVP for Rust Meetup"
+description: "Register for the next Rust Meetup"
+title: "RSVP: [Your Name]"
+labels: ["rsvp"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: "Your Name"
+      placeholder: "Jane Doe"
+    validations:
+      required: true
+  - type: textarea
+    id: comment
+    attributes:
+      label: "Any Comments?"
+      placeholder: "Excited to join!"
