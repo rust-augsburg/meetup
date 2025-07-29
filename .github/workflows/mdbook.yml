@@ -1,7 +1,3 @@
-# Sample workflow for building and deploying a mdBook site to GitHub Pages
-#
-# To get started with mdBook see: https://rust-lang.github.io/mdBook/index.html
-#
 name: Deploy mdBook site to Pages
 
 on:
@@ -11,7 +7,11 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  repository_dispatch:
     types: [rebuild-pages]
+
+  schedule:
+    - cron: "0 6 * * *"
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -39,21 +39,16 @@ jobs:
           mkdir bin
           curl -sSL https://github.com/rust-lang/mdBook/releases/download/v${MDBOOK_VERSION}/mdbook-v${MDBOOK_VERSION}-x86_64-unknown-linux-gnu.tar.gz | tar -xz --directory=bin
           bin/mdbook build
-          # curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
-          # rustup update
-          # cargo install --version ${MDBOOK_VERSION} mdbook
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
       - name: Build with mdBook
         run: bin/mdbook build
-        # run: mdbook build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./book
 
-  # Deployment job
   deploy:
     environment:
       name: github-pages
