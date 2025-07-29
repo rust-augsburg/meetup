@@ -5,7 +5,7 @@ on:
     types: [opened, labeled]
 
 permissions:
-  contents: write   # ✅ necessário para commits
+  contents: write
 
 jobs:
   update-list:
@@ -15,19 +15,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: main   # ✅ garante que trabalha sempre com a branch principal
+          ref: main
 
       - name: Extract attendee data
         id: extract
         run: |
+          RAW_BODY="${{ github.event.issue.body }}"
           NAME=$(echo "${{ github.event.issue.title }}" | sed 's/^RSVP: //')
-          COMMENT=$(echo "${{ github.event.issue.body }}" | tr '\n' ' ' | sed 's/|/-/g')
+
+          # ✅ get only the comments after "### Any Comments?"
+          COMMENT=$(echo "$RAW_BODY" | sed -n '/### Any Comments?/,$p' | tail -n +2 | tr '\n' ' ' | sed 's/|/-/g')
+
           echo "name=$NAME" >> $GITHUB_OUTPUT
           echo "comment=$COMMENT" >> $GITHUB_OUTPUT
 
+
       - name: Append attendee to attendees.md
         run: |
-          echo "| ${{ steps.extract.outputs.name }} | ${{ steps.extract.outputs.comment }} |" >> attendees.md
+          echo "| ${{ steps.extract.outputs.name }} | ${{ steps.extract.outputs.comment }} |" >> ./src/attendees.md
 
       - name: Commit and Push changes
         run: |
