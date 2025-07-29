@@ -5,8 +5,7 @@ on:
     types: [opened, labeled]
 
 permissions:
-  contents: write
-  pull-requests: write   # ✅ necessário para criar PRs
+  contents: write   # ✅ necessário para commits
 
 jobs:
   update-list:
@@ -15,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main   # ✅ garante que trabalha sempre com a branch principal
 
       - name: Extract attendee data
         id: extract
@@ -28,12 +29,10 @@ jobs:
         run: |
           echo "| ${{ steps.extract.outputs.name }} | ${{ steps.extract.outputs.comment }} |" >> attendees.md
 
-      # ✅ Criar PR em vez de push direto
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v6
-        with:
-          branch: "add-attendee-${{ github.event.issue.number }}"
-          commit-message: "Add attendee: ${{ steps.extract.outputs.name }}"
-          title: "Add attendee: ${{ steps.extract.outputs.name }}"
-          body: "This PR adds the attendee from issue #${{ github.event.issue.number }}."
-          labels: "attendee-update"
+      - name: Commit and Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add attendees.md
+          git commit -m "Add attendee: ${{ steps.extract.outputs.name }}" || echo "No changes to commit"
+          git push origin main
