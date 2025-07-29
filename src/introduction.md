@@ -1,21 +1,28 @@
-# Introduction
+# Vorstellung
+
+![The Rust Meetup Logo](./img/MeetupLogo.svg)
 
 presentation: <https://rust-augsburg.github.io/meetup/>
 
 repo: <https://github.com/rust-augsburg/meetup>
 
-Attention all Rust enthusiasts!
+Achtung an alle Rust-Begeisterten!
 
-You are cordially invited to join our Rust group, where we explore the ins and outs of this amazing programming language. Whether you're a seasoned Rustacean or a curious beginner, we welcome you to be part of our community of like-minded individuals who share a passion for Rust.
+Ihr seid herzlich eingeladen, unserer Rust-Gruppe beizutreten, in der wir die Feinheiten und Besonderheiten dieser großartigen Programmiersprache entdecken. Ob erfahrener Rustacean oder neugieriger Anfänger – wir freuen uns auf alle, die Teil unserer Gemeinschaft werden möchten und die Leidenschaft für Rust teilen.
 
-Together, we'll dive into the latest Rust updates, exchange knowledge, and work on exciting projects that challenge and inspire us. Join us as we sharpen our Rust skills and take on the world of programming like never before.
+Gemeinsam tauchen wir in die neuesten Rust-Updates ein, tauschen Wissen aus und arbeiten an spannenden Projekten, die uns herausfordern und inspirieren. Schließt euch uns an, während wir unsere Rust-Fähigkeiten schärfen und die Welt der Programmierung auf eine neue Weise erobern.
 
-Don't miss out on this incredible opportunity to connect with fellow Rust fans and take your skills to the next level. Let's Rust and roll!
-
-Find us at Matrix: [#rust-augsburg:matrix.org](https://matrix.to/#/#rust-augsburg:matrix.org)
+Verpasst nicht diese großartige Gelegenheit, euch mit anderen Rust-Fans zu vernetzen und eure Fähigkeiten auf das nächste Level zu bringen. Let's Rust and roll!
 
 
-## Location
+
+Ihr findet uns auf Matrix: [#rust-augsburg:matrix.org](https://matrix.to/#/#rust-augsburg:matrix.org)
+
+
+## Wann
+Nächste Termin: [Augsburg Rust Meetup #14](./Meetup_14.md)
+
+## Wo
 
 Stadtbücherei Augsburg
 
@@ -25,9 +32,7 @@ Ernst-Reuter-Platz 1 · Augsburg, BY
 
 [Google Maps](https://www.google.com/maps/search/?api=1&query=48.369286%2C%2010.895057)
 
-## Organiziers
+## Veranstalter
 ### Tiago Manczak <https://github.com/tiagomanczak>
 
 ### Michael Schury <https://github.com/datenzauberer>
-
-![The Rust Meetup Logo](./img/MeetupLogo.svg)
