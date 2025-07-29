@@ -10,3 +10,4 @@ Click below to register:
 
 | Name  | Comment |
 |-------|---------|
+| Tiago Manczak |  Veranstalter  |
