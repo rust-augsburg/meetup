@@ -32,7 +32,7 @@ jobs:
 
       - name: Append attendee to attendees.md
         run: |
-          echo "| ${{ steps.extract.outputs.name }} | ${{ steps.extract.outputs.comment }} |" >> ./src/attendees.md
+          echo "| ${{ steps.extract.outputs.name }} | ${{ steps.extract.outputs.comment }} |" >> src/attendees.md
 
       - name: Commit and Push changes
         run: |
