@@ -4,6 +4,7 @@ title: "RSVP: [Your Name]"
 labels: ["rsvp"]
 assignees:
   - tiagomanczak
+  - datenzauberer
 body:
   - type: input
     id: name
