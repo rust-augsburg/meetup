@@ -14,3 +14,4 @@ Click below to register:
 | Michael  Schury |  Veranstalter  |
 | Claudia Meitinger |  Vortragende  |
 | Ludwig Weinzierl |  Teilnehmer  |
+| Building Cross-Platform Applications with Rust |  |
