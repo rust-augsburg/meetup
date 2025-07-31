@@ -13,3 +13,4 @@ Click below to register:
 | Tiago Manczak |  Veranstalter  |
 | Michael  Schury |  Veranstalter  |
 | Claudia Meitinger |  Vortragende  |
+| Ludwig Weinzierl |  Teilnehmer  |
