@@ -10,4 +10,4 @@ Willkommen in unserer Rust-Gruppe! Entdecke mit uns die faszinierende Welt der P
 
 Tip: bring deinen Computer mit!
 
- - [Fotos](./MeetupFotos2.md)
+## [Fotos](./MeetupFotos2.md)

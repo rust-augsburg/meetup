@@ -9,4 +9,4 @@ Willkommen in unserer Rust-Gruppe! Entdecke mit uns die faszinierende Welt der P
 - 17:30pm - [Prof. Dr. Claudia Meitinger](https://www.tha.de/Elektrotechnik/Claudia-Meitinger.html) - Embassy - Möglichkeiten und Herausforderungen im Modul "Interdisciplinary Project"
 - 18:30pm - Allgemeine Themen
 
-## [Teilnehmerliste](./attendees.md)
+## [Fotos](./MeetupFotos14.md)
