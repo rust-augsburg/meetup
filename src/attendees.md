@@ -1,6 +1,6 @@
 # 🦀 Registered Attendees
 
-## [Augsburg Rust Meetup #14](./Meetup_14.md)
+## [Augsburg Rust Meetup #15](./Meetup_15.md)
 Click below to register:
 
 <a href="https://github.com/rust-augsburg/meetup/issues/new?template=rsvp.yml"
@@ -10,8 +10,3 @@ Click below to register:
 
 | Name  | Comment |
 |-------|---------|
-| Tiago Manczak |  Veranstalter  |
-| Michael  Schury |  Veranstalter  |
-| Claudia Meitinger |  Vortragende  |
-| Ludwig Weinzierl |  Teilnehmer  |
-| Building Cross-Platform Applications with Rust |  |
