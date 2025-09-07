@@ -12,3 +12,4 @@ Click below to register:
 |-------|---------|
 | Tiago Manczak |  Veranstalter  |
 | Julian Dickert |  Kann nur bis ca. 19 Uhr dabei sein.  |
+| Ludwig Weinzierl |  _No response_  |
