@@ -16,3 +16,4 @@ Click below to register:
 | Maria |  _No response_  |
 | Florian |  Not 100% sure I can make it.  |
 | Peter Ilberg |     |
+| Bojanche |  p.s the site seems not updated, on the homepage next event still says #14 https://rust-augsburg.github.io/meetup/  |
