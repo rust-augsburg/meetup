@@ -20,7 +20,7 @@ Ihr findet uns auf Matrix: [#rust-augsburg:matrix.org](https://matrix.to/#/#rust
 
 
 ## Wann
-Nächste Termin: [Augsburg Rust Meetup #14](./Meetup_14.md)
+Nächste Termin: [Augsburg Rust Meetup #15](./Meetup_15.md)
 
 ## Wo
 
