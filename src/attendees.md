@@ -11,3 +11,4 @@ Click below to register:
 | Name  | Comment |
 |-------|---------|
 | Christian Meusel | Presenter |
+| Tiago Manczak |  Veranstalter  |
