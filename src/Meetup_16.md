@@ -6,7 +6,7 @@ Willkommen in unserer Rust-Gruppe! Entdecke mit uns die faszinierende Welt der P
 
 ## Agenda
 - 17:00pm - Willkommen und vorstellung
-- 17:30pm - TBD
+- 17:30pm - Oxidizing Step by Step - [Christian Meusel](https://github.com/sirhcel)
 - 18:30pm - Allgemeine Themen
 
 ## [Teilnehmerliste](./attendees.md)

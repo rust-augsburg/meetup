@@ -10,4 +10,4 @@ Click below to register:
 
 | Name  | Comment |
 |-------|---------|
-| Oxidizing Step by Step |  |
+| Christian Meusel | Presenter |
