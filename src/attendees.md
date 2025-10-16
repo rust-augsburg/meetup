@@ -13,3 +13,4 @@ Click below to register:
 | Christian Meusel | Presenter |
 | Tiago Manczak |  Veranstalter  |
 | Ludwig Weinzierl |  _No response_  |
+| Maria |  One more interesting talk! Excited to join!  |
