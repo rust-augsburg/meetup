@@ -15,3 +15,4 @@ Click below to register:
 | Ludwig Weinzierl |  _No response_  |
 | Maria |  One more interesting talk! Excited to join!  |
 | Peter Ilberg |  _No response_  |
+| Philipp Hortmann |  _No response_  |
