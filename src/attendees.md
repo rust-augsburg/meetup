@@ -18,3 +18,4 @@ Click below to register:
 | Philipp Hortmann |  _No response_  |
 | WieErWill |  _No response_  |
 | Bojanche Stojchevski |  _No response_  |
+| Michael Schury |  _No response_  |
