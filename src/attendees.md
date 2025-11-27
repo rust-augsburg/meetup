@@ -19,4 +19,4 @@ Click below to register:
 | WieErWill |  _No response_  |
 | Bojanche Stojchevski |  _No response_  |
 | Michael Schury |  _No response_  |
-| [Your Name] |  Love to contribute on fancy rust projects!  |
+| Saleem Mehmood |  Love to contribute on fancy rust projects!  |
