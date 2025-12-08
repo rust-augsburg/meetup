@@ -1,12 +1,12 @@
-# Augsburg Rust Meetup #16
+# Augsburg Rust Meetup #17
 
-## 27. Nov. 2025 17:00
+## 26. Jan. 2026 17:00
 
 Willkommen in unserer Rust-Gruppe! Entdecke mit uns die faszinierende Welt der Programmiersprache Rust. Ob Anfänger oder Experte - hier tauschen wir Know-how aus, lösen Herausforderungen und erschaffen gemeinsam innovative Projekte. Sei dabei und werde Teil unserer leidenschaftlichen Community! #RustEnthusiasten
 
 ## Agenda
 - 17:00pm - Willkommen und vorstellung
-- 17:30pm - Oxidizing Step by Step - [Christian Meusel](https://github.com/sirhcel)
+- 17:30pm - tbd
 - 18:30pm - Allgemeine Themen
 
-## [Fotos](./MeetupFotos16.md)
+## [Teilnehmerliste](./attendees.md)

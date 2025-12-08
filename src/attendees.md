@@ -1,6 +1,6 @@
 # 🦀 Registered Attendees
 
-## [Augsburg Rust Meetup #16](./Meetup_16.md)
+## [Augsburg Rust Meetup #17](./Meetup_17.md)
 Click below to register:
 
 <a href="https://github.com/rust-augsburg/meetup/issues/new?template=rsvp.yml"
@@ -10,13 +10,4 @@ Click below to register:
 
 | Name  | Comment |
 |-------|---------|
-| Christian Meusel | Presenter |
 | Tiago Manczak |  Veranstalter  |
-| Ludwig Weinzierl |  _No response_  |
-| Maria |  One more interesting talk! Excited to join!  |
-| Peter Ilberg |  _No response_  |
-| Philipp Hortmann |  _No response_  |
-| WieErWill |  _No response_  |
-| Bojanche Stojchevski |  _No response_  |
-| Michael Schury |  _No response_  |
-| Saleem Mehmood |  Love to contribute on fancy rust projects!  |

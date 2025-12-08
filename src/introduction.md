@@ -20,7 +20,14 @@ Ihr findet uns auf Matrix: [#rust-augsburg:matrix.org](https://matrix.to/#/#rust
 
 
 ## Wann
-Nächste Termin: [Augsburg Rust Meetup #16](./Meetup_16.md)
+- 26.01.2026 - [Augsburg Rust Meetup #17](./Meetup_17.md)
+- 23.03.2026
+- 11.05.2026
+- 27.07.2026
+- 28.09.2026
+- 30.11.2026
+
+Magst du einen Vortrag halten! [Hier klicken](https://github.com/rust-augsburg/meetup/issues/new?template=talk_proposals.md)
 
 ## Wo
 
@@ -34,5 +41,4 @@ Ernst-Reuter-Platz 1 · Augsburg, BY
 
 ## Veranstalter
 ### Tiago Manczak <https://github.com/tiagomanczak>
-
 ### Michael Schury <https://github.com/datenzauberer>
