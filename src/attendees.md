@@ -12,3 +12,4 @@ Click below to register:
 |-------|---------|
 | Tiago Manczak |  Veranstalter  |
 | Peter Ilberg |  _No response_  |
+| [Your Name] |  _No response_  |
