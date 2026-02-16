@@ -10,8 +10,4 @@ Click below to register:
 
 | Name  | Comment |
 |-------|---------|
-| Tiago Manczak |  Veranstalter  |
-| Peter Ilberg |  _No response_  |
-| [Your Name] |  _No response_  |
-| Maria |  _No response_  |
-| [ |  _No response_  |
+

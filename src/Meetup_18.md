@@ -1,12 +1,13 @@
-# Augsburg Rust Meetup #17
+# Augsburg Rust Meetup #18
 
-## 26. Jan. 2026 17:00
+## 23. Mar. 2026 17:00
 
 Willkommen in unserer Rust-Gruppe! Entdecke mit uns die faszinierende Welt der Programmiersprache Rust. Ob Anfänger oder Experte - hier tauschen wir Know-how aus, lösen Herausforderungen und erschaffen gemeinsam innovative Projekte. Sei dabei und werde Teil unserer leidenschaftlichen Community! #RustEnthusiasten
 
 ## Agenda
 - 17:00pm - Willkommen und vorstellung
-- 17:30pm - Entwicklung des Kernels Update für TockOS - Emily Coaca
+- 17:30pm - TBD
 - 18:30pm - Allgemeine Themen
 
-## [Fotos](./MeetupFotos17.md)
+## [Teilnehmerliste](./attendees.md)
+
