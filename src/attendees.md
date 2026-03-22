@@ -14,3 +14,4 @@ Click below to register:
 | Peter Ilberg |  _No response_  |
 | Maria |  _No response_  |
 | Claudia Meitinger |  Ich komme ein bisschen später...  |
+| Rafael Bachmann |  _No response_  |
