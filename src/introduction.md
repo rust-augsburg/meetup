@@ -22,7 +22,7 @@ Ihr findet uns auf Matrix: [#rust-augsburg:matrix.org](https://matrix.to/#/#rust
 ## Wann
 - 26.01.2026 - [Augsburg Rust Meetup #17](./Meetup_17.md)
 - 23.03.2026 - [Augsburg Rust Meetup #18](./Meetup_18.md)
-- 11.05.2026
+- 11.05.2026 - [Augsburg Rust Meetup #19](./Meetup_19.md)
 - 27.07.2026
 - 28.09.2026
 - 30.11.2026

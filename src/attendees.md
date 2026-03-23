@@ -10,10 +10,4 @@ Click below to register:
 
 | Name  | Comment |
 |-------|---------|
-| Peter Ilberg |  _No response_  |
-| Maria |  _No response_  |
-| Claudia Meitinger |  Ich komme ein bisschen später...  |
-| Rafael Bachmann |  _No response_  |
-| Tiago Manczak | |
-| Michael Schury | |
-| Ludwig Weinzierl ||
+
