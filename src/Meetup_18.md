@@ -9,5 +9,7 @@ Willkommen in unserer Rust-Gruppe! Entdecke mit uns die faszinierende Welt der P
 - 17:30pm - Bevy: Spielentwicklung mit Rust - Ludwig Weinzierl 
 - 18:30pm - Allgemeine Themen
 
-## [Teilnehmerliste](./attendees.md)
+## Reference
+repo = [destroy-rs](https://github.com/weinzierl/destroy-rs/tree/main)
 
+## [Teilnehmerliste](./attendees.md)
