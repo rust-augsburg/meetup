@@ -13,3 +13,4 @@ Click below to register:
 
 | WieErWill |  _No response_  |
 | Feature: CalDav Link on Event Page |  |
+| Michael Schury |  _No response_  |
