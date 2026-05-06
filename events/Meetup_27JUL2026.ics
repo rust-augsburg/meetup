@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rust-augsburg/meetup//EN
+BEGIN:VEVENT
+UID:meetup-27-20260727@rust-augsburg
+DTSTAMP:20260506T180147Z
+DTSTART:20260727T150000Z
+DTEND:20260727T170000Z
+SUMMARY:Augsburg Rust Meetup
+DESCRIPTION:Augsburg Rust Meetup on 2026-07-27. More info: https://rust-augsburg.github.io/meetup/
+LOCATION:Stadtbücherei Augsburg, Ernst-Reuter-Platz 1, Augsburg, BY
+URL:https://rust-augsburg.github.io/meetup/
+END:VEVENT
+END:VCALENDAR

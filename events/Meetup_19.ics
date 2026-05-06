@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rust-augsburg/meetup//EN
+BEGIN:VEVENT
+UID:meetup-19-20260511@rust-augsburg
+DTSTAMP:20260506T180147Z
+DTSTART:20260511T150000Z
+DTEND:20260511T170000Z
+SUMMARY:Augsburg Rust Meetup #19
+DESCRIPTION:Augsburg Rust Meetup. More info: https://rust-augsburg.github.io/meetup/
+LOCATION:Stadtbücherei Augsburg, Ernst-Reuter-Platz 1, Augsburg, BY
+URL:https://rust-augsburg.github.io/meetup/
+END:VEVENT
+END:VCALENDAR
