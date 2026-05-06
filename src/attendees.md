@@ -10,7 +10,6 @@ Click below to register:
 
 | Name  | Comment |
 |-------|---------|
-
 | WieErWill |  _No response_  |
-| Feature: CalDav Link on Event Page |  |
-| Michael Schury |  _No response_  |
+| Tiago Manczak |  |
+| Michael Schury | |

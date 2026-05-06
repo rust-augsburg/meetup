@@ -6,7 +6,7 @@ Willkommen in unserer Rust-Gruppe! Entdecke mit uns die faszinierende Welt der P
 
 ## Agenda
 - 17:00pm - Willkommen und vorstellung
-- 17:30pm -  
+- 17:30pm - Game on with Rust & Pico - Tiago Manczak
 - 18:30pm - Allgemeine Themen
 
 ## [Teilnehmerliste](./attendees.md)
