@@ -37,7 +37,7 @@ Ernst-Reuter-Platz 1 · Augsburg, BY
 
 2.OG Zimmer 212
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2509.0434000470486!2d10.890185387218516!3d48.36928796093488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479ebd519f2b94c1%3A0x1dd3e93142054e2b!2sStadtb%C3%BCcherei%20Augsburg!5e1!3m2!1sde!2sde!4v1757881137781!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=10.893580019474031%2C48.36857762689663%2C10.896026194095613%2C48.369965699203455&amp;layer=mapnik&amp;marker=48.36927166777942%2C10.89480310678482" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=48.369272&amp;mlon=10.894803#map=19/48.369272/10.894803">Öffne Externen Link</a></small>
 
 ## Veranstalter
 ### Tiago Manczak <https://github.com/tiagomanczak>
