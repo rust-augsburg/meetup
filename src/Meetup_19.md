@@ -14,12 +14,4 @@ Ernst-Reuter-Platz 1 · Augsburg, BY
 - 17:30pm - Game on with Rust & Pico - Tiago Manczak
 - 18:30pm - Allgemeine Themen
 
-## [Teilnehmerliste](./attendees.md)
-
-## Wo
-
-Stadtbücherei Augsburg
-
-Ernst-Reuter-Platz 1 · Augsburg, BY
-
-2.OG Zimmer 212
+## [Fotos](./MeetupFotos19.md)
