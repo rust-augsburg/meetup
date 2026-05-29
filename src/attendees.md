@@ -1,6 +1,6 @@
 # 🦀 Registered Attendees
 
-## [Augsburg Rust Meetup #17](./Meetup_17.md)
+## [Augsburg Rust Meetup #20](./Meetup_20.md)
 Click below to register:
 
 <a href="https://github.com/rust-augsburg/meetup/issues/new?template=rsvp.yml"
@@ -10,7 +10,4 @@ Click below to register:
 
 | Name  | Comment |
 |-------|---------|
-| WieErWill |  _No response_  |
-| Tiago Manczak |  |
-| Michael Schury | |
-| Peter Ilberg |  _No response_  |
+
