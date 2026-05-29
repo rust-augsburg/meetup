@@ -6,7 +6,7 @@ Willkommen in unserer Rust-Gruppe! Entdecke mit uns die faszinierende Welt der P
 
 ## Agenda
 - 17:00pm - Willkommen und vorstellung
-- 17:30pm - cargo-vet: Audits statt blindem Vertrauen - Julian Dickert
+- 17:30pm - Supply chain security in Rust: Evaluating crates for production - Julian Dickert
 - 18:30pm - Allgemeine Themen
 
 ## [Teilnehmerliste](./attendees.md)
