@@ -12,3 +12,4 @@ Click below to register:
 |-------|---------|
 
 | [Your Name] |  _No response_  |
+| Yusuf Raji |  _No response_  |
