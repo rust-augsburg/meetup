@@ -16,3 +16,4 @@ Click below to register:
 | Alex Mariotto |  _No response_  |
 | [Bojanche] |  _No response_  |
 | Maria |  _No response_  |
+| From Bits to Bugs: A Rust generator for SUIT Manifests and Structure-Aware Parser Fuzzing |  |
