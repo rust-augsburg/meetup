@@ -1,6 +1,6 @@
 # 🦀 Registered Attendees
 
-## [Augsburg Rust Meetup #20](./Meetup_20.md)
+## [Augsburg Rust Meetup #21](./Meetup_21.md)
 Click below to register:
 
 <a href="https://github.com/rust-augsburg/meetup/issues/new?template=rsvp.yml"
@@ -10,10 +10,3 @@ Click below to register:
 
 | Name  | Comment |
 |-------|---------|
-
-| [Your Name] |  _No response_  |
-| Yusuf Raji |  _No response_  |
-| Alex Mariotto |  _No response_  |
-| [Bojanche] |  _No response_  |
-| Maria |  _No response_  |
-| From Bits to Bugs: A Rust generator for SUIT Manifests and Structure-Aware Parser Fuzzing |  |
