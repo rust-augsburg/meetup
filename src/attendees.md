@@ -11,3 +11,4 @@ Click below to register:
 | Name  | Comment |
 |-------|---------|
 | RSVP(Meetup #21): Dmitrii Kalianov |  _No response_  |
+| Tiago Manczak |  _No response_  |
