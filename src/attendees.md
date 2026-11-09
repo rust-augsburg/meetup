@@ -1,6 +1,6 @@
 # 🦀 Registered Attendees
 
-## [Augsburg Rust Meetup #21](./Meetup_21.md)
+## [Augsburg Rust Meetup #22](./Meetup_22.md)
 Click below to register:
 
 <a href="https://github.com/rust-augsburg/meetup/issues/new?template=rsvp.yml"
@@ -10,5 +10,4 @@ Click below to register:
 
 | Name  | Comment |
 |-------|---------|
-| RSVP(Meetup #21): Dmitrii Kalianov |  _No response_  |
-| Tiago Manczak |  _No response_  |
+

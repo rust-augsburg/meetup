@@ -9,7 +9,7 @@ Willkommen in unserer Rust-Gruppe! Entdecke mit uns die faszinierende Welt der P
 - 17:30pm - Supply chain security in Rust: Evaluating crates for production - Julian Dickert
 - 18:30pm - Allgemeine Themen
 
-## [Teilnehmerliste](./attendees.md)
+## [Fotos](./MeetupFotos20.md)
 
 ## Wo
 

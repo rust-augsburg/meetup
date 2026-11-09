@@ -9,7 +9,7 @@ Willkommen in unserer Rust-Gruppe! Entdecke mit uns die faszinierende Welt der P
 - 17:30pm - From Bits to Bugs: A Rust generator for SUIT Manifests and Structure-Aware Parser Fuzzing - Maximilian Grauvogl & Marcel Fink
 - 18:30pm - Allgemeine Themen
 
-## [Teilnehmerliste](./attendees.md)
+## [Fotos](./MeetupFotos21.md)
 
 ## Wo
 
